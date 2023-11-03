@@ -5,12 +5,12 @@ plugins {
 
 android {
     namespace = "com.josecovian.pmdm.tiptime"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.josecovian.pmdm.tiptime"
         minSdk = 21
-        targetSdk = 33
+        targetSdk = 34
         versionCode = 1
         versionName = "1.0"
 
